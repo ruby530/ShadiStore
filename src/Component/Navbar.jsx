@@ -48,7 +48,7 @@ function Navbar() {
 
       </div>
       <div className="searchButton">
-        <input type="text" placeholder="Search something...!"/>
+        <input type="text" placeholder="Search What You Want To Known About...!"/>
         <button style={{width:"40%"}}>search</button>
       </div>
 

@@ -32,9 +32,7 @@ const moments = [
 ];
 
 function Moments() {
-let handleExlore=()=>{
 
-}
   return (
 
     <section className="section moments" id="moments">
@@ -68,9 +66,9 @@ let handleExlore=()=>{
 
               <h3>{moment.title}</h3>
 
-              <button onClick={handleExlore}>
+              <span>
                 Explore →
-              </button>
+              </span>
 
             </div>
 
